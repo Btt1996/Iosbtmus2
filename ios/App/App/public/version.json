@@ -1,0 +1,7 @@
+{
+  "name": "btmu by Ahmed",
+  "version": "2.00",
+  "buildDate": "2026-11-07",
+  "releaseNotes": "btmu 2.00: Milestone release with complete iOS dark liquid redesign; X1 intelligent song identification; X2 music discovery engine; automated Smart Synchro metadata repair and artwork matching; real DSP volume booster with soft-knee limiting; Spotify public playlist & profile discovery; and enhanced background audio stability.",
+  "minSupportedVersion": "1.0.0"
+}
